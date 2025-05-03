@@ -1,7 +1,7 @@
 <!---banner--->
 
 <h1 align="center">
- 🚀 ft_printf
+ 🚀 Printf
 </h1>
 
 > **Recréation de la fonction `printf` en C**
@@ -57,7 +57,3 @@ ft_printf("Hello %s! You have %d messages.\n", "world", 42);
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfe.png" alt="ft_printf badge" width="120"/>
-</div> 
