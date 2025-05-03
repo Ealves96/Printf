@@ -4,10 +4,6 @@
  🚀 Printf
 </h1>
 
-<p align="center">
- <img src="https://res.cloudinary.com/dzo1cimyr/image/upload/v1746288764/pushswap_yuaoqq.gif"/>
-</p>
-
 > **Recréation de la fonction `printf` en C**
 
 Ce projet consiste à réimplémenter la fonction standard `printf` de la bibliothèque C, en respectant les normes de l'école 42. L'objectif est de comprendre la gestion des arguments variables, la manipulation de chaînes, et l'affichage formaté en C.
